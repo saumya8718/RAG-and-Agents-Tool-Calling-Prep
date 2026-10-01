@@ -1241,7 +1241,7 @@ A production architecture can be represented as:
                Final Response
                       ↓
               Observability
-```
+~~~
 
 ---
 
